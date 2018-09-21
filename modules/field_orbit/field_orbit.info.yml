@@ -1,0 +1,14 @@
+name: Field Orbit
+type: module
+description: 'Provides a Slideshow format for displaying Image or Media fields, rendered in the Zurb Foundation 5 Orbit plugin.'
+# version: '8.0.0'
+# core: '8.x'
+package: Fields
+dependencies:
+  - image
+
+# Information added by Drupal.org packaging script on 2016-08-28
+version: '8.x-1.0'
+core: '8.x'
+project: 'field_orbit'
+datestamp: 1472404408
